@@ -94,6 +94,12 @@ a {
     transition: 0.3s;
 }
 
+.adl {
+    background-color: #729e2e;
+    color: white;
+    font-weight: 500;
+}
+
 /* MAIN */
 
 .main {
