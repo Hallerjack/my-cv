@@ -78,6 +78,7 @@ a {
 .nav-bar {
     display: flex;
     justify-content: end;
+    flex-wrap: wrap;
     gap: 0px;
     padding-right: 3rem;
     background-color: #3aa2f0;
